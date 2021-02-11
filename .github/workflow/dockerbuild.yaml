@@ -2,7 +2,7 @@ name: Build & push images for 'Better To Do user interface'
 on:
   push:
     branches:
-      - master
+      - main
     paths-ignore:
       - 'e2e/**'
       - 'scripts/**'
